@@ -4,8 +4,8 @@
 > For english, please, scroll down
 
 **Всем привет!** :wave: \
-Меня зовут Юра и я являюсь студентом онлайн школы SkillFactory по направлению DataScience. 
-В настоящий момент моя сфера деятельности не связана с IT, но в ходе работы я сталкиваюсь с большим количеством автоматизации, а стало быть, алгоритмами, и это всегда находило во мне отклик. Поэтому, однажды я решил сменить сферу деятельности. 
+Меня зовут Юра и я являюсь студентом онлайн школы SkillFactory по направлению DataScience. \
+В настоящий момент моя сфера деятельности не связана с IT, но в ходе работы я сталкиваюсь с большим количеством автоматизации, а стало быть, алгоритмами, и это всегда находило во мне отклик. Поэтому, однажды я решил сменить сферу деятельности. \
 В этом репозитории Вы сможете ознакомиться с проектами, которые я выполнял в ходе учебной программы, а также, проекты вне учебной программы, которые реализовывал самостоятельно для оттачивания приобретенных навыков и применения их к своим прикладным задачам.
 
 ## Найди число 
@@ -38,12 +38,12 @@
 \
 \
 \
-\
+
 # Study Projects
 
 **Hi there!** :wave: \
-My name is Yuriy and I am a student at the SkillFactory IT online school, with DataScience field of study. 
-At the moment, my field of activity is not related to IT, but in the course of my work I come across a lot of automation, and therefore algorithms, and this has always resonated with me. Therefore, one day I decided to change my field of activity. 
+My name is Yuriy and I am a student at the SkillFactory IT online school, with DataScience field of study. \
+At the moment, my field of activity is not related to IT, but in the course of my work I come across a lot of automation, and therefore algorithms, and this has always resonated with me. Therefore, one day I decided to change my field of activity. \
 In this repository you can familiarize yourself with the projects that I completed during the curriculum, as well as projects outside the curriculum that I implemented independently to hone the acquired skills and apply them to my applied problems.
 
 ## Find the Number 
