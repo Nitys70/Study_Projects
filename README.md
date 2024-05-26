@@ -1,7 +1,7 @@
 # Study Projects
 
 > [!TIP]
-> For english, please, scroll down
+> For english, please, [click here](https://github.com/Nitys70/Study_Projects?tab=readme-ov-file#study-projects-1)
 
 **Всем привет!** :wave: \
 Меня зовут Юра и я являюсь студентом онлайн школы SkillFactory по направлению DataScience. \
